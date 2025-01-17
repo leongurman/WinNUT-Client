@@ -793,15 +793,15 @@
         </trans-unit>
         <trans-unit id="Cbx_TypeStop.Items" translate="yes" xml:space="preserve">
           <source>Shutdown</source>
-          <target state="final">Mise à l'arrêt</target>
+          <target state="final">Arrêter</target>
         </trans-unit>
         <trans-unit id="Cbx_TypeStop.Items1" translate="yes" xml:space="preserve">
           <source>Sleep</source>
-          <target state="final">Mise en Veille</target>
+          <target state="final">Mettre en Veille</target>
         </trans-unit>
         <trans-unit id="Cbx_TypeStop.Items2" translate="yes" xml:space="preserve">
           <source>Hibernate</source>
-          <target state="final">Mise en Veille Prolongée</target>
+          <target state="final">Mettre en Veille Prolongée</target>
         </trans-unit>
         <trans-unit id="Cbx_TypeStop.Location" translate="no" extype="System.Drawing.Point, System.Drawing" xml:space="preserve">
           <source>181, 97</source>
